@@ -1,0 +1,9 @@
+{
+  "name": "web-snake-game",
+  "version": "1.0.0",
+  "author": "Hazrat Ali>",
+  "description": "Web basd snake game.",
+  "main": "index.js",
+  "keywords": ["snake", "game"],
+  "license": "ISC"
+}
