@@ -1,4 +1,4 @@
-/* --------------- DOM --------------- */
+/* --------------- Dom--------------- */
 const ground = document.getElementById("ground");
 const score = document.getElementById("score");
 
